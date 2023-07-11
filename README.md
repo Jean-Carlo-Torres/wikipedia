@@ -1,6 +1,6 @@
 # Wikipédia
 
-<p>Criando a página do <b>Wikipédia</b> com um layout mais moderno, utilizando <b>HTML</b> e <b>CSS</b>.</p>
+<p>Recriando a página do <b>Wikipédia</b> com um layout mais moderno, utilizando <b>HTML</b> e <b>CSS</b>.</p>
 
 <img src="./github/layout.png">
 
